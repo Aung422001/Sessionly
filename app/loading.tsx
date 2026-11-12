@@ -1,0 +1,1 @@
+export default function Loading() { return <div className="wrap section loading-state" role="status"><span className="eyebrow">SESSIONLY / JUST A MOMENT</span><h2>Finding the good kind of getting lost…</h2></div>; }
